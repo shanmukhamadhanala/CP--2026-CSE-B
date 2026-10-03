@@ -1,1 +1,1 @@
-# DSA Exercises in Java
+# CP Exercises in Java
